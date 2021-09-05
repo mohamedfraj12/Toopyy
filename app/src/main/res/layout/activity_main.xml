@@ -9,7 +9,7 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="197dp"
+        android:layout_width="200dp"
         android:layout_height="208dp"
         android:src="@drawable/LOGO"
         tools:ignore="MissingConstraints"
