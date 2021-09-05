@@ -1,3 +1,3 @@
 # Toopyy
 
-Source code of Toopy
+Source code of Toopy app
